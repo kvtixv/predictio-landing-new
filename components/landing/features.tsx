@@ -9,37 +9,37 @@ const FEATURES = [
     icon: BarChart3,
     title: "Auto-research danych",
     description:
-      "AI przeszukuje internet i zbiera H2H, forme, kontuzje, sklady i kursy automatycznie.",
+      "AI przeszukuje internet i zbiera H2H, forme, kontuzje, składy i kursy automatycznie.",
   },
   {
     icon: Target,
     title: "Value bet detector",
     description:
-      "Porownuje prawdopodobienstwo modelu z kursami bukmachera i wskazuje zaklady z przewaga.",
+      "Porównuje prawdopodobieństwo modelu z kursami bukmachera i wskazuje zakłady z przewagą.",
   },
   {
     icon: Zap,
     title: "Analiza w 30 sekund",
     description:
-      "Pelna analiza meczu z danymi, typem i ocena ryzyka gotowa w pol minuty.",
+      "Pełna analiza meczu z danymi, typem i oceną ryzyka gotowa w pól minuty.",
   },
   {
     icon: Share2,
-    title: "Gotowe posty na social media",
+    title: "Model predykcyjny",
     description:
-      "Generuje gotowe teksty do wklejenia na Instagram i Telegram - free i VIP.",
+      "Zaawansowany model analizuje tysiące danych i wylicza najbardziej prawdopodobne scenariusze.",
   },
   {
     icon: TrendingUp,
     title: "Sledzenie wynikow",
     description:
-      "Automatycznie liczy win rate, ROI i prowadzi historie wszystkich typow.",
+      "Automatycznie liczy win rate, ROI i prowadzi historie wszystkich typów.",
   },
   {
     icon: Lock,
     title: "Tylko dla Ciebie",
     description:
-      "Prywatne narzedzie - nikt inny nie widzi Twoich analiz ani strategii.",
+      "Prywatne narzędzie - nikt inny nie widzi Twoich analiz ani strategii.",
   },
 ]
 
