@@ -20,22 +20,22 @@ export function Hero() {
 
       <div className="relative z-10 mx-auto max-w-3xl">
         <FadeIn>
-          <LandingBadge glow>Nowa era typowania meczow</LandingBadge>
+          <LandingBadge glow>Nowa era typowania meczów</LandingBadge>
         </FadeIn>
 
         <FadeIn delay={0.1}>
           <h1 className="mt-7 text-4xl font-extrabold leading-[1.05] tracking-tight md:text-6xl lg:text-7xl">
             <span className="text-balance">Typy bukmacherskie</span>
             <br />
-            <span className="text-gradient-primary">napedzane AI</span>
+            <span className="text-gradient-primary">napędzane AI</span>
           </h1>
         </FadeIn>
 
         <FadeIn delay={0.2}>
           <p className="mx-auto mt-6 max-w-xl text-balance text-base leading-relaxed text-muted-foreground md:text-lg">
-            Sztuczna inteligencja analizuje dane meczowe, H2H, kontuzje i sklady
-            w czasie rzeczywistym. Ty dostajesz gotowe typy z analiza value i
-            ocena ryzyka.
+            Sztuczna inteligencja analizuję dane meczowe, H2H, kontuzje i składy
+            w czasie rzeczywistym. Ty dostajesz gotowe typy z analizą value i
+            oceną ryzyka.
           </p>
         </FadeIn>
 
