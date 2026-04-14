@@ -33,7 +33,7 @@ export function Hero() {
 
         <FadeIn delay={0.2}>
           <p className="mx-auto mt-6 max-w-xl text-balance text-base leading-relaxed text-muted-foreground md:text-lg">
-            Sztuczna inteligencja analizuję dane meczowe, H2H, kontuzje i składy
+            Sztuczna inteligencja analizuje dane meczowe, H2H, kontuzje i składy
             w czasie rzeczywistym. Ty dostajesz gotowe typy z analizą value i
             oceną ryzyka.
           </p>
@@ -46,7 +46,7 @@ export function Hero() {
                 size="lg"
                 className="glow-primary bg-gradient-to-r from-primary to-primary/80 px-8 text-base font-bold text-primary-foreground hover:from-primary/90 hover:to-primary/70"
               >
-                Zacznij typowac
+                Zacznij typować
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
             </Link>
@@ -56,16 +56,16 @@ export function Hero() {
               className="border-border/50 bg-secondary/50 px-8 text-base font-semibold hover:bg-secondary"
               onClick={() => scrollTo("how-it-works")}
             >
-              Jak to dziala?
+              Jak to działa?
             </Button>
           </div>
         </FadeIn>
 
         <FadeIn delay={0.5}>
           <div className="mt-16 flex flex-wrap justify-center gap-12 md:gap-16">
-            <StatCounter value={87} suffix="%" label="Skutecznosc AI" />
-            <StatCounter value={1200} suffix="+" label="Analiz miesiecznie" />
-            <StatCounter value={340} suffix="+" label="Zadowolonych klientow" />
+            <StatCounter value={87} suffix="%" label="Skuteczność AI" />
+            <StatCounter value={1200} suffix="+" label="Analiz miesięcznie" />
+            <StatCounter value={340} suffix="+" label="Zadowolonych klientów" />
           </div>
         </FadeIn>
       </div>
