@@ -46,7 +46,7 @@ export function Hero() {
                 size="lg"
                 className="glow-primary bg-gradient-to-r from-primary to-primary/80 px-8 text-base font-bold text-primary-foreground hover:from-primary/90 hover:to-primary/70"
               >
-                Zacznij typować
+                Zacznij analizę
                 <ArrowRight className="ml-2 h-4 w-4" />
               </Button>
             </Link>
