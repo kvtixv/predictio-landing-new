@@ -47,7 +47,7 @@ export function FAQ() {
           <div className="mb-16 text-center">
             <LandingBadge>FAQ</LandingBadge>
             <h2 className="mt-5 text-3xl font-extrabold tracking-tight md:text-4xl lg:text-5xl">
-              Czeste pytania
+              Częste pytania
             </h2>
           </div>
         </FadeIn>
