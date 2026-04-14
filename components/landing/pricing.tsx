@@ -10,26 +10,25 @@ import { cn } from "@/lib/utils"
 const PLANS = [
   {
     tier: "Starter",
-    price: "0 zl",
+    price: "0 zł",
     period: "miesiąc",
     features: [
       "5 analiz dziennie",
       "Top 5 lig Europy",
       "Podstawowe statystyki",
-      "Historia typow",
+      "Historia typów",
     ],
     cta: "Zacznij za darmo",
     highlighted: false,
   },
   {
     tier: "Pro",
-    price: "49 zl",
+    price: "49 zł",
     period: "miesiąc",
     features: [
       "Nieograniczone analizy",
-      "Wszystkie ligi swiata",
+      "Wszystkie ligi świata",
       "Value bet detector",
-      "Gotowe posty na social media",
       "Zaawansowane statystyki",
       "Priorytetowe wsparcie",
     ],
@@ -38,17 +37,17 @@ const PLANS = [
   },
   {
     tier: "Team",
-    price: "149 zl",
+    price: "199 zł",
     period: "miesiąc",
     features: [
       "Wszystko z Pro",
-      "Do 5 uzytkownikow",
-      "Panel zespolu",
+      "Do 5 użytkowników",
+      "Panel zespołu",
       "Eksport danych CSV",
       "API dostep",
       "Dedykowany opiekun",
     ],
-    cta: "Skontaktuj sie",
+    cta: "Skontaktuj się",
     highlighted: false,
   },
 ]
@@ -64,7 +63,7 @@ export function Pricing() {
               Wybierz plan dla siebie
             </h2>
             <p className="mx-auto mt-4 max-w-xl text-muted-foreground">
-              Zacznij za darmo i przeskaluj w miare potrzeb. Anuluj w dowolnym
+              Zacznij za darmo i przeskaluj w miarę potrzeb. Anuluj w dowolnym
               momencie.
             </p>
           </div>
